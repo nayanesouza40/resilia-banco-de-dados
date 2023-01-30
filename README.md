@@ -5,7 +5,7 @@ Proposta:
 A Resilia está pensando em lançar um novo sistema de
 acompanhamento e para isso precisa de ajuda para modelar um banco de dados que vai armazenar seus cursos, turmas e alunos.
 
-
+![diagram](https://user-images.githubusercontent.com/113534680/215379436-fc90f523-a041-4262-aa6d-3d5269fbf5d6.png)
 
 Perguntas:
 
