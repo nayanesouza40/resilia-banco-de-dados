@@ -20,3 +20,5 @@ Como essas entidades estão relacionadas?
 1:1 uma entidade relaciona-se com uma outra
 1:N uma entidade relaciona-se com várias outras
 N:N várias entidades relacionam=se com várias outras
+
+Link modelo: https://drive.google.com/file/d/1d8RIzAAFQKFtFNrQuoiQd3aKvtH5F-RM/view?usp=sharing
